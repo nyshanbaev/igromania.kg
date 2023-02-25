@@ -1,0 +1,13 @@
+django 
+djangorestframework
+psycopg2-binary
+Pillow
+python-decouple
+djangorestframework-simplejwt 
+django-rest-passwordreset
+drf-yasg
+django-filter
+requests
+BeautifulSoup4
+loguru
+pyTelegramBotAPI

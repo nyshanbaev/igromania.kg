@@ -1,0 +1,46 @@
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 404 2514
+"GET /favicon.ico HTTP/1.1" 404 2565
+"GET /igromania/ HTTP/1.1" 200 5780
+"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+"GET /igromania/game/ HTTP/1.1" 200 21955
+"GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 0
+"GET /igromania/account/ HTTP/1.1" 404 8209
+"GET /igromania/news/ HTTP/1.1" 404 8200
+"POST /account/login/ HTTP/1.1" 200 483
+"GET /swagger/ HTTP/1.1" 200 2156
+"GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 324275
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1086481
+"GET /swagger/?format=openapi HTTP/1.1" 200 15103
+/home/tutan/Desktop/py25/igromania/igromania/settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 404 2514
+/home/tutan/Desktop/py25/igromania/igromania/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/tutan/Desktop/py25/igromania/igromania/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/tutan/Desktop/py25/igromania/igromania/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/tutan/Desktop/py25/igromania/igromania/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 404 2514
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 404 2514
+"GET /swagger/ HTTP/1.1" 200 2156
+"GET /swagger/?format=openapi HTTP/1.1" 200 15103
