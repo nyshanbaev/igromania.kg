@@ -4,6 +4,6 @@ def send_activation_code(email, code):
     send_mail(
         'Igromania',
         f'http://localhost:8000/account/activate/{code}/',
-        'baitikovskij@gmail.com',
+        'ajkanysdzumagulova@gmail.com',
         [email]
     )

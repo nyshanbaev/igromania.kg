@@ -59,7 +59,7 @@ class GameModelViewSet(viewsets.ModelViewSet):
             status = 'unliked'
         return Response({'status': status})
  
-        
+
 
     def get_permissions(self):
         if self.request.method == 'GET':
@@ -73,14 +73,12 @@ class GameModelViewSet(viewsets.ModelViewSet):
         return serializer.save(owner=self.request.user)                  
     
 
+
 class GameImageModelViewSet(ModelViewSet):
     queryset = GameImage.objects.all()
     serializer_class = GameImageSerializer
     permission_classes = [IsAuthenticated, IsOwner]    
 
-
-
- 
 
 class CommentModelViewSet(ModelViewSet):
     queryset = Comment.objects.all()
