@@ -216,3 +216,23 @@ LOGGING = {
 }
 
 TELEGRAM_BOT_API_KEY = config('TELEGRAM_BOT_API_KEY')
+
+
+CELERY_BROKER_URL = "redis://localhost:6379"
+CELERY_RESULT_BACKEND = "redis://localhost:6379"
+
+CELERY_TIMEZONE = 'UTC'
+
+# Задачи будут сохраняться в Redis в течение 15 минут
+CELERY_TASK_RESULT_EXPIRES = 900
+
+# Задачи будут автоматически перезапускаться в случае ошибки
+CELERY_TASK_REJECT_ON_WORKER_LOST = True
+
+# Настройки периодических задач
+CELERY_BEAT_SCHEDULE = {
+    'run-parser-every-5-minutes': {
+        'task': 'applications.news.tasks.run_parser',
+        'schedule': 5.0,  # интервал в секундах
+    },
+}

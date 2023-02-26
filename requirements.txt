@@ -11,3 +11,6 @@ requests
 BeautifulSoup4
 loguru
 pyTelegramBotAPI
+lxml
+celery
+redis

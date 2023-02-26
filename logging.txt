@@ -44,3 +44,47 @@ Watching for file changes with StatReloader
 "GET / HTTP/1.1" 404 2514
 "GET /swagger/ HTTP/1.1" 200 2156
 "GET /swagger/?format=openapi HTTP/1.1" 200 15103
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 404 2514
+"GET /swagger/ HTTP/1.1" 200 2156
+"GET /swagger/?format=openapi HTTP/1.1" 200 15103
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 404 2514
+"GET /favicon.ico HTTP/1.1" 404 2565
+"GET /swagger/ HTTP/1.1" 200 2156
+"GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1086481
+"GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 324275
+"GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 143858
+"GET /swagger/?format=openapi HTTP/1.1" 200 15103
+"GET /swagger/ HTTP/1.1" 200 2156
+"GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 304 0
+"GET /swagger/?format=openapi HTTP/1.1" 200 15103
+Watching for file changes with StatReloader
+/home/tutan/Desktop/py25/igromania/igromania/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/tutan/Desktop/py25/igromania/igromania/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/tutan/Desktop/py25/igromania/igromania/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/tutan/Desktop/py25/igromania/igromania/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/tutan/Desktop/py25/igromania/igromania/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/tutan/Desktop/py25/igromania/igromania/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/tutan/Desktop/py25/igromania/igromania/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/tutan/Desktop/py25/igromania/igromania/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/tutan/Desktop/py25/igromania/igromania/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/tutan/Desktop/py25/igromania/igromania/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/tutan/Desktop/py25/igromania/igromania/settings.py changed, reloading.
+Watching for file changes with StatReloader
