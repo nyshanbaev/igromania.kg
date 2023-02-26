@@ -122,3 +122,4 @@ class TestView(APIView):
     def get(self, request, *args, **kwargs):
         logger.info('This is a test log message')
         return Response({'message': 'Hello, world!'})
+    
